@@ -1,0 +1,27 @@
+<annotation>
+	<folder>VOC2010</folder>
+	<filename>IMAG0396.jpg</filename>
+	<source>
+		<database>DICOM VOC2010 compatible Annotation Database</database>
+		<annotation>Department of Computer Science and Communication</annotation>
+		<image>University of Insubria</image>
+	</source>
+	<size>
+		<width>648</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object>
+		<name>detection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>351</xmax>
+			<xmin>2</xmin>
+			<ymax>322</ymax>
+			<ymin>42</ymin>
+		</bndbox>
+	</object>
+</annotation>
